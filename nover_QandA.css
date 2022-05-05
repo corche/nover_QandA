@@ -1,0 +1,27 @@
+html{background-color: #141414; color: #fdfdfd; font-family: font; font-size: 1.2em;}
+body{margin: 0;}
+.bold{font-family: bold;}
+.box{margin-left: calc(100vw - 50%); transform: translateX(-50%); width: 1000px;}
+.title{text-align: center; margin-top: 25vw; transform: translateY(-50%);}
+.end{margin-top: 20vw;}
+
+.color{color: #F99F2E;}
+.t1{font-size: 4em;}
+.t3{font-size: 0.81em; color: #ddd;}
+.t2{font-size: 2.3em;}
+.a{border-left: 4px solid #F99F2E; padding: 10px;}
+.mt{margin-top: 30vw;}
+.mb{margin-bottom: 10vw;}
+
+
+
+
+
+@font-face{
+    font-family: 'font';
+    src: url('./GmarketSansTTFMedium.ttf');
+}
+@font-face{
+    font-family: 'bold';
+    src: url('./GmarketSansTTFBold.ttf');
+}
